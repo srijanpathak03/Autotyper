@@ -1,8 +1,8 @@
-# Enhanced Autotyper 🤖✨
+# Autotyper Pro 🤖✨
 
-![Autotyper Screenshot](screenshot.png)
+AutoTyper Pro is a powerful and user-friendly tool that automates typing tasks on your computer. Customize it to repeatedly input text or generate realistic typing patterns, saving you time and enhancing productivity. Best of all, it's completely free to use!
 
-The Enhanced Autotyper is a powerful, customizable tool that allows you to automate typing tasks on your computer. Whether you need to repeatedly type the same text, or generate human-like typing patterns, this application has you covered.
+![Autotyper Screenshot](assets/images/AutoTyper.png)
 
 ## Features ✨
 
@@ -35,8 +35,5 @@ You can download the latest version of the Autotyper from the [releases page](ht
 
 ## Contributing 🤝
 
-If you have any suggestions, bug reports, or would like to contribute to the development of the Autotyper, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/srijan-pathak/autotyper).
+If you have any suggestions, bug reports, or would like to contribute to the development of the Autotyper, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/srijanpathak03/Autotyper).
 
-## License 📃
-
-This project is licensed under the [MIT License](LICENSE).
