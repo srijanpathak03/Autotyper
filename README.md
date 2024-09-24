@@ -15,7 +15,7 @@ AutoTyper Pro is a powerful and user-friendly tool that automates typing tasks o
 
 ## Download 💾
 
-You can download the latest version of the Autotyper from the [releases page](https://github.com/srijan-pathak/autotyper/releases/latest). The latest version is **v1.0**, which includes the installer file `AutoTyperSetup.exe`.
+You can download the latest version of the Autotyper from the [releases page](https://github.com/srijanpathak03/Autotyper/releases/latest). The latest version is **v1.0**, which includes the installer file `AutoTyperSetup.exe`.
 
 ## Installation 🏠
 
