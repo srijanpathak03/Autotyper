@@ -22,7 +22,7 @@ You can download the latest version of Autotyper Pro from the following link:
 
 ## Installation 🏠
 
-1. Download the `AutoTyperSetup.exe` file from the [latest release](https://github.com/srijan-pathak/autotyper/releases/latest).
+1. Download the `AutoTyperSetup.exe` file from the [latest release](https://github.com/srijanpathak03/Autotyper/releases/latest).
 2. Run the installer file and follow the on-screen instructions to install the Autotyper on your Windows computer.
 3. Once installed, you can launch the Autotyper from the Start menu or by double-clicking the desktop shortcut (if you chose to create one during installation).
 
