@@ -13,9 +13,12 @@ AutoTyper Pro is a powerful and user-friendly tool that automates typing tasks o
 - **Hotkey Controls**: Start and stop the typing process using customizable global hotkeys (e.g., Alt+S, Alt+X).
 - **Easy-to-Use Interface**: The clean and intuitive graphical user interface makes the Autotyper simple to operate.
 
-## Download 💾
+## Download Autotyper Pro 📥
 
-You can download the latest version of the Autotyper from the [releases page](https://github.com/srijanpathak03/Autotyper/releases/latest). The latest version is **v1.0**, which includes the installer file `AutoTyperSetup.exe`.
+You can download the latest version of Autotyper Pro from the following link:
+
+[Download Autotyper Pro](https://github.com/srijanpathak03/Autotyper/releases/download/v1.0/AutoTyperSetup.exe)
+
 
 ## Installation 🏠
 
